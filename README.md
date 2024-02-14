@@ -1,4 +1,4 @@
-# Waste_Classifi
+# Waste_Classification
 # Tải dữ liệu train và model
 - Tải các thư mục liên quan: https://drive.google.com/drive/folders/1n-i6S2vBJw90w4GubSqZPq8OJXcucTdS?usp=drive_link
 - Thay thế dữ liệu và lưu tại: Resources\Dataset. 
