@@ -10,5 +10,5 @@
 - pip install -r requirements.txt
 # Tiến hành train: sử dụng google colab hoặc máy tính cá nhân đủ mạnh
 - file: Waste_Classification.ipynb
- Kiểm tra kết nối với arduino Check_port.py và thay đổi giá trị trong file main.py
- Thay đổi giá trị sử dụng camera và thay đổi trong file main.py
+- Kiểm tra kết nối với arduino Check_port.py và thay đổi giá trị trong file main.py
+- Thay đổi giá trị sử dụng camera và thay đổi trong file main.py
